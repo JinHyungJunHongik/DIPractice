@@ -19,6 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "ScorePlace"
+rootProject.name = "DIPractice"
 include(":app")
  
